@@ -4,7 +4,7 @@ Interactive tracking dashboard for Global Transportation & Logistics (GTL) inbou
 
 ## 🔗 Access
 
-**Dashboard URL**: `https://<org-name>.github.io/carrier-dashboard/`
+**Dashboard URL**: `https://<org-name>.github.io/carrier-dashboard/` 
 
 No login required — just open the link in any browser.
 
